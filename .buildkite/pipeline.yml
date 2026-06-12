@@ -1,4 +1,4 @@
 steps:
   - trigger: pipeline-1
     build:
-      message: "Triggered Pipeline_1"
+      message: "Triggered Pipeline22SSS_1"
